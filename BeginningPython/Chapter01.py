@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*
+# 第一章 基础知识
 
 print "Hello, world!"
 

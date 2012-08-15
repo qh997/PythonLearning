@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*
+# 第二章 列表和元组
 
 edward = ['Edward Gumby', 42]
 john = ['John Smith', 50]

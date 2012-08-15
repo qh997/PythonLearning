@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
+# 第三章 使用字符串
 
 format = "Hello, %s. %s enough for ya?"
 values = ('world', 'Hot')
