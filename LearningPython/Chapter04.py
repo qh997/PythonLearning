@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
 # 第四章 介绍 Python 对象类型
+print '####\n#### 第四章 介绍 Python 对象类型\n####\n'
 
 # 数字
 print '【数字】'
@@ -202,3 +203,4 @@ lx.knead()
 print lx.getSize()
 lx.knead()
 print lx.getSize()
+print
